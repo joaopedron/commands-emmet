@@ -1,4 +1,4 @@
-#Automatizando suas tarefas CSS com Emmet!
+#Automatizando suas tarefas CSS com ST2+Emmet!
 ##Lista de comandos que irá ajudar suas tarefas do dia-a-dia ficarem mais rápidas.
 
 *Todos nós Sabemos que o Emmet adianta muito a nossa vida no dia-a-dia ,esses dias olhando os arquivos dele 
@@ -26,3 +26,10 @@ snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 - `fl:n` = float:none;
 - `z` = z-index:;
 - `cl:b` = clear:both;
+- `d` = display:;
+- `d:n` = display:none;
+- `d:b` = display:block;
+- `d:i` = display:inline;
+- `d:ib` = display:inline-block;
+
+##E Você tem algum comando que utiliza bastante que eu não listei aqui ?
