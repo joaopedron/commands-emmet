@@ -9,15 +9,15 @@ Vou listar algumas propiedades que eu particulamente mais uso, mas fique tranqui
 snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 
 ###Position
-1.pos:s = position:static;
-1.pos:a = position:absolute;
-1.pos:r = position:relative;
-1.pos:f = position:fixed;
-1.t = top:;
-1.t:a = top:auto;
-1.r = right:;
-1.r:a = right:auto;
-1.b = bottom:;
-1.b:a = bottom:auto;
-1.l = left:;
-1.l:a = left:auto;
+- pos:s = position:static;
+- pos:a = position:absolute;
+- pos:r = position:relative;
+- pos:f = position:fixed;
+- t = top:;
+- t:a = top:auto;
+- r = right:;
+- r:a = right:auto;
+- b = bottom:;
+- b:a = bottom:auto;
+- l = left:;
+- l:a = left:auto;
