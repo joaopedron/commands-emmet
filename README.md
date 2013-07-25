@@ -32,4 +32,4 @@ snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 - `d:i` = display:inline;
 - `d:ib` = display:inline-block;
 
-##E Você tem algum comando que utiliza bastante que eu não listei aqui ?
+##E Você tem algum comando que utiliza bastante que eu não listei aqui?
