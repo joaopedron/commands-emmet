@@ -21,3 +21,8 @@ snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 - `b:a` = bottom:auto;
 - `l` = left:;
 - `l:a` = left:auto;
+- `fl:l` = float:left;
+- `fl:r` = float:right;
+- `fl:n` = float:none;
+- `z` = z-index:;
+- `cl:b` = clear:both;
