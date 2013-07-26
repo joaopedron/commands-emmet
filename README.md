@@ -61,5 +61,5 @@ snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 - `miw` = min-width:|;
 - `mih` = min-height:|;
 
-###Esses são alguns comandos que eu utulizando , assim que eu for lembrando de mais vou compartilhando com vocês,
-E voccê tem algum comando que utiliza bastante que eu não listei aqui? deixe seu feedback!
+####Esses são alguns comandos que eu utulizando , assim que eu for lembrando de mais vou compartilhando com vocês,
+E você tem algum comando que utiliza bastante que eu não listei aqui? deixe seu feedback!
