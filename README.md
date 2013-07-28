@@ -62,7 +62,6 @@ snippets.json [Dentro da pasta Emmet] tem a lista completa de todos os comandos.
 - `mih` = min-height:|;
 - `bb` = border-bottom:|;
 - `fz` = font-size:|;
-bia linda
 
 ####Esses são alguns comandos que eu utilizo , assim que eu for lembrando de mais vou compartilhando com vocês,
 E você tem algum comando que utiliza bastante que eu não listei aqui? deixe seu feedback!
